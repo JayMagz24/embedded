@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+9cc231b91b79e852602b3db3dd3d8bdb CMakeFiles/clear
+236117f679b72dc09d2be655a69771c7 CMakeFiles/copy_svd
+d041cfc0ef8d9a48377ae0b313d9f40e CMakeFiles/flash
